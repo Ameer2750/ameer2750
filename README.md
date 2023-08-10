@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Your Name], a passionate developer focused on crafting meaningful solutions through code. Welcome to my GitHub profile!
+I'm Ameer, a passionate developer focused on crafting meaningful solutions through code. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on enhancing my web development skills, with a focus on React and Node.js projects.
 - 🌱 I’m currently learning about advanced state management in React and server-side programming with Node.js.
