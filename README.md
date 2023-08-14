@@ -27,7 +27,8 @@
 <p align="left">
 <a href="https://twitter.com/ameer_2750" target="blank">
   <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="ameer_2750" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vellai-ameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vellai-ameer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vellai-ameer" target="blank">
+  <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="vellai-ameer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
