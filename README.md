@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ameer_2750" target="blank"><img src="https://img.shields.io/twitter/follow/ameer_2750?logo=twitter&style=for-the-badge" alt="ameer_2750" /></a> </p>
 
-- 🔭 I’m currently working on **ViuSales**
+- 🔭 I’m currently working on **Infosprint**
 
-- 🌱 I’m currently learning **React, AWS, DS And ALGO**
+- 🌱 I’m currently learning **Nextjs, DB, DS and Algo, Adv Development**
 
-- 👯 I’m looking to collaborate on **ViuSales**
+- 💬 Ask me about **Nextj, NodeJs (NestJs, Express), DB (Mysql)**
 
-- 🤝 I’m looking for help with **ViuSales Admin Panel**
-
-- 💬 Ask me about **React, NodeJs (NestJs, Express)**
-
-- 📫 How to reach me **ameerbsc2630@gmail.com**
+- 📫 How to reach me **ameerbsc2630@gmail.com** , **Wapp : 6369373070**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12etPRAxHPxL6TmAZmrNd0lKIkpIEcin0/view?usp=drive_link](https://drive.google.com/file/d/12etPRAxHPxL6TmAZmrNd0lKIkpIEcin0/view?usp=drive_link)
 
