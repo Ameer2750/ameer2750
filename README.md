@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Infosprint**
 
-- 🌱 I’m currently learning **Nextjs, DB, DS and Algo, Adv Development**
+- 🌱 I’m currently learning **Devops, DS and Algo, Adv Development**
 
 - 💬 Ask me about **Nextj, NodeJs (NestJs, Express), DB (Mysql)**
 
