@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ameerbsc2630@gmail.com** , **Wapp : 6369373070**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12etPRAxHPxL6TmAZmrNd0lKIkpIEcin0/view?usp=drive_link](https://drive.google.com/file/d/12etPRAxHPxL6TmAZmrNd0lKIkpIEcin0/view?usp=drive_link)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **Am Not From IT Degree**
 
